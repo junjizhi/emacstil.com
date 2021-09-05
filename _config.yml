@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Forever Jekyll
+name: TIL Emacs
 
 # Short bio or description (displayed in the header)
-description: A simple, elegant and full featured Jekyll theme
+description: Today I learned in Emacs
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/image/avatar.png
+avatar: /assets/image/emacs-icon.png
 
 #
 # Flags below are optional
@@ -17,7 +17,7 @@ avatar: /assets/image/avatar.png
 
 # Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://forever-jekyll.github.io
+url: https://emacstil.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -42,12 +42,8 @@ footer_links:
     url: feed.xml
     icon: fa fa-rss-square
 
-  - title: Twitter
-    url: https://twitter.com/jekyllrb
-    icon: fa fa-twitter-square
-
   - title: GitHub
-    url: https://github.com/forever-jekyll
+    url: https://github.com/junjizhi/emacs-til
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
