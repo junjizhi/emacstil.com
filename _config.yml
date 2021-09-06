@@ -68,7 +68,7 @@ kramdown:
 # Pagination
 paginate: 5
 paginate_path: "/page/:num/"
-google_analytics: UA-285318878-1
+google_analytics: G-JCH0ZX01FH
 
 # Set the Sass partials directory, as we're using @imports
 sass:
