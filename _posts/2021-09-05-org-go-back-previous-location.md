@@ -2,6 +2,7 @@
 layout: post
 title: "Org-mode: Go back to previous location after opening links"
 categories: [til]
+comments: true
 ---
 
 The function you are looking for is:

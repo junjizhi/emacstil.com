@@ -2,6 +2,7 @@
 layout: post
 title: "Doom Emacs: Search variable/function/etc. at cursor position"
 categories: [til]
+comments: true
 ---
 
 When your cursor is on a variable / function / etc., you want

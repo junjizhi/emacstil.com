@@ -2,6 +2,7 @@
 layout: post
 title: "Magit: Show commits touching one file only"
 categories: [til]
+comments: true
 ---
 
 

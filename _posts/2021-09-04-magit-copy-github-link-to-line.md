@@ -2,6 +2,7 @@
 layout: post
 title: "Magit: Copy Github links to current link / file"
 categories: [til]
+comments: true
 ---
 
 In VSCode, there is a plugin to copy [Git Web Links for VS Code](https://marketplace.visualstudio.com/items?itemName=reduckted.vscode-gitweblinks). It is handy when you want to share the link to a specific line of a shared code base.
