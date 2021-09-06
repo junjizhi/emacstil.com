@@ -9,21 +9,8 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    <i class="fa fa-calendar fa-fw" aria-hidden="true"></i>&nbsp;Date:<span style="color: #333333; font-weight: normal;">&nbsp;{{ page.date | date: "%B %e, %Y" }}</span>
-  </div>
-
-  <div class="post-categories">
-    <i class="fa fa-tags fa-fw" aria-hidden="true"></i>&nbsp;Tags:&nbsp;
-      {% if post %}
-      {% assign categories = post.categories %}
-      {% else %}
-      {% assign categories = page.categories %}
-      {% endif %}
-      {% for category in categories %}
-      <a class="categories-button"<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-      {% unless forloop.last %}{% endunless %}
-      {% endfor %}
+  <div class="attribution">
+    By <a href="{{ site.author_home  }}">{{ site.author }}</a> on {{ page.date | date: "%B %e, %Y" }}</span>
   </div>
 
   <div class="share-post">
