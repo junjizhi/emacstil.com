@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Manage Web Bookmarks with Buku"
+title: "Manage Web Bookmarks with Emacs + buku"
 categories: [til]
 comments: true
 ---
@@ -15,4 +15,4 @@ Type `M-x ebuku` you get:
 
 Then you can search(`s`), open(`RET`), edit(`e`), etc. with Emacs interface.
 
-_Note: _For copying URLs, ebuku doesn't have support yet. I have opened a [PR](https://github.com/flexibeast/ebuku/pull/19/files). Meanwhile you can copy the `(ebuku-copy-url)` function to your config and try it out locally_.
+_Note: For copying URLs, ebuku doesn't have support yet. I have opened a [PR](https://github.com/flexibeast/ebuku/pull/19/files). Meanwhile you can copy the `(ebuku-copy-url)` function to your config and try it out locally_.
