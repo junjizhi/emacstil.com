@@ -36,7 +36,7 @@ Then I assign the hotkey `⌘ + F9` to the service in Keyboard settings:
 
 <img width="661" alt="image" src="https://user-images.githubusercontent.com/2715151/135779857-1832309e-d3d2-41d4-a82c-d59d5c1d8835.png">
 
-Now whenever I press `Command` + `F9` key in any text area of the browser, 
+Now whenever I press `Command` + `F9` key in any text area of the browser, a small Emacs window shows up and rescue all my text editing endeavors.
 
 
 
