@@ -71,5 +71,4 @@ Now I can highlight any text on a weg, then press
 
 Boom, it shows in the beautiful org-capture buffer.
 
-_Notes:_
-- [Org-protocol](https://orgmode.org/worg/org-contrib/org-protocol.html) supports `org-store-link` and `org-remember` URLs as well. You can build URLs with the similar JS code.
+> **_NOTE:_**   [Org-protocol](https://orgmode.org/worg/org-contrib/org-protocol.html) supports `org-store-link` and `org-remember` URLs as well. You can build URLs with the similar JS code.
