@@ -6,11 +6,13 @@ categories: [til]
 comments: true
 ---
 Automating image workflows can minimize the friction of
-dealing with images. This is useful when you need to insert images or screenshots into your blog articles 
+dealing with images. This is useful when you need to insert images or screenshots into your blog articles
 
 ## Automate uploading images to the Cloud
 
 I use [uPic](https://github.com/gee1k/uPic). 
+
+> **_NOTE:_** This app is available in Mac OS X only.
 
 You can follow the
 [instructions](https://blog.svend.cc/upic/tutorials/github/) to
