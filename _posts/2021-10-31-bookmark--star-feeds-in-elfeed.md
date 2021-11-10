@@ -14,6 +14,7 @@ From [this Pragmatic Emacs article](http://pragmaticemacs.com/emacs/star-and-uns
 
 ```elisp
 ;; From http://pragmaticemacs.com/emacs/star-and-unstar-articles-in-elfeed/
+(require 'elfeed)
 (defalias 'elfeed-toggle-star
   (elfeed-expose #'elfeed-search-toggle-all 'star))
 
