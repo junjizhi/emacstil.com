@@ -67,7 +67,7 @@ You can assign a shortcut to run custom JS
 settings](https://cdn.jsdelivr.net/gh/junjizhi/emacstil.com@main/uPic/CNeplc.png)
 
 Now I can highlight any text on a weg, then press
-`ctrl-i`{.verbatim}.
+`ctrl-i`.
 
 Boom, it shows in the beautiful org-capture buffer.
 
