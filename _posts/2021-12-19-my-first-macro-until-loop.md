@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"until" loop - My first macro'
+title: '"until" loop - My first elisp macro'
 date: '2021-12-19 11:36:53 -0500'
 categories: [til]
 comments: true
