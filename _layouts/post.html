@@ -13,16 +13,24 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="share-post">
-    <i class="fa fa-share-alt-square fa-fw" aria-hidden="true"></i>&nbsp;Share:&nbsp;
-    {% include share-buttons.html %}
-  </div>
-
-  <div class="related-posts">
-    {% include related-posts.html %}
-  </div>
-
 </article>
+
+<br />
+
+<hr />
+
+<div class="related-posts">
+  {% include related-posts.html %}
+</div>
+
+<br />
+
+<div class="share-post">
+  <i class="fa fa-share-alt-square fa-fw" aria-hidden="true"></i>&nbsp;Share:&nbsp;
+  {% include share-buttons.html %}
+</div>
+
+<br />
 
 {% if page.comments %}
   {% include disqus.html %}
