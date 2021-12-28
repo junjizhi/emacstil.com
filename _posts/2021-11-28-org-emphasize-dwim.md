@@ -84,3 +84,7 @@ rarely use it, so I bind the keystrokes:
 
 Right now if I press the `` ` `` or `` M-` `` key, Emacs emphasizes the
 current word correctly as I like!
+
+  > **EDIT**: When I started programming in elisp and writing macros, I found
+  > the backtick is used often, and I had to unset the backtick and invoke the
+  > emphasize-with-code-dwim maually with M-x instead.
