@@ -16,7 +16,7 @@ the buffer.
 
 This is like the [OpenAI
 playground](https://beta.openai.com/playground) where you can run the command
-multiple times to continue the conversion in the same buffer.
+multiple times to continue the conversation in the same buffer.
 
 Demo:
 
