@@ -25,4 +25,6 @@ Currently `aide.el` implementation is minimal: You select a region of text in Em
   
 [Try it out](https://github.com/junjizhi/aide.el) and let me know what you think!
 
+-- 
 
+__Edit__: See [the new post](https://emacstil.com/til/2021/12/30/aideel-updates/) for a demo gif.
