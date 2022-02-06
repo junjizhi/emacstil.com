@@ -32,6 +32,9 @@ navigation_links:
   - title: Blog
     url: /
 
+  - title: Index
+    url: /archive
+
   - title: About
     url: /about
 
