@@ -10,7 +10,7 @@ One natural thinking is to let Emacs help me with my writing. This post
 documents my attempt to set up [Vale](https://github.com/errata-ai/vale)
 on Emacs, which lints prose based on the configured writing styles.
 
-First, we need to install [Vale](https://github.com/errata-ai/vale). If
+First, you need to install [Vale](https://github.com/errata-ai/vale). If
 you are in Mac OS X, `brew install vale` should do the trick.
 
 Next is to set up `.vale.ini` file in your home directory, and set up
@@ -29,7 +29,7 @@ Your `$HOME/.vale.ini` should look like:
     [*.org]
     BasedOnStyles = Microsoft
 
-We set up `flycheck` + `Vale`. I found the setup from
+Then set up `flycheck` + `Vale`. I found the setup from
 [Duncan\'s
 post](https://duncan.codes/posts/2020-09-14-prose-linting-vale-emacs.org/index.html)
 that works for me:
