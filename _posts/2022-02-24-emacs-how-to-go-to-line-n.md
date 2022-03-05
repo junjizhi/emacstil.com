@@ -34,3 +34,9 @@ e.g., pressing the second g key while the meta key is not released yet.
 In Mac OS X, I like to bind `s-l` to `goto-line` so that I can press
 `command + l` to do the same thing, instead of pressing the
 awkward combo of M-g g.
+
+__Edit__:
+
+Malcolm Purvis commented that we can use `C-u <number> M-x goto-line` to enter
+the line number first. That is a nicer workflow if you are comfortable with Emacs
+[prefix arguments](https://www.gnu.org/software/emacs/manual/html_node/elisp/Prefix-Command-Arguments.html).

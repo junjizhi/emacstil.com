@@ -26,3 +26,7 @@ You can do instant search by pressing the `s` key, read a feed by pressing enter
 One quirk I learned is that, elfeed don't really delete your feed. If you don't want to see them as again, just mark the feed as read, and refresh.
 
 Happy reading!
+
+__Updates on 2022-03-05__:
+
+Not all sites support RSS feeds. If you use Firefox and Pocket, you can [set up pocket-reader.el](https://emacstil.com/til/2022/02/06/pocket-reader-on-emacs/) to read your bookmarked articles. It also supports adding Elfeed article to Pocket. This kind of Read-it-Later workflow works well for me.
