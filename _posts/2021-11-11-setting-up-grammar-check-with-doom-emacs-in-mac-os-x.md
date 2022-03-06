@@ -40,4 +40,6 @@ Then running `M-x langtool-check-buffer` works!
 
 __Edits on 2022-03-05__:
 
+I wrote [a new post](https://emacstil.com/til/2022/03/05/run-grammar-check-on-org-buffers-automatically-with-languagetool/) about running language-tool check automatically.
+
 If you are looking for writing style linting, check out my post about [setting up vale prose linter](https://emacstil.com/til/2022/03/05/setting-up-vale-prose-linter-on-emacs/).
