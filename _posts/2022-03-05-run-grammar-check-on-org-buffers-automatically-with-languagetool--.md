@@ -4,6 +4,8 @@ title: 'Run grammar check on Org buffers automatically with Language-Tool  '
 date: '2022-03-05 21:28:44 -0500'
 categories: [til]
 comments: true
+excerpt: 'I set up Emacs to run LanguageTool automatically before saving Org mode buffers. All errors are highlighted to provide instant feedback.' 
+keywords: [languagetool,org-mode,doom]
 ---
 I
 [blogged](https://emacstil.com/til/2021/11/11/setting-up-grammar-check-with-doom-emacs-in-mac-os-x/)
@@ -28,4 +30,4 @@ All errors are highlighted, and I can invoke
 
 It works nicely alongside [my Vale style linter](https://emacstil.com/til/2022/03/05/setting-up-vale-prose-linter-on-emacs/):
 
-![Running language-tool automatically on org-mode, alongside Vale prose linter on Emacs and display linting errors](https://user-images.githubusercontent.com/2715151/156907052-34320650-7992-40c1-aeaa-b7806cabf0eb.png).
+![Running language-tool automatically on org-mode, alongside Vale prose linter on Emacs and display linting errors](https://user-images.githubusercontent.com/2715151/156907052-34320650-7992-40c1-aeaa-b7806cabf0eb.png)

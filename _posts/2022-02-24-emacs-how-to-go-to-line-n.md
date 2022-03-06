@@ -4,6 +4,7 @@ title: 'Emacs: How to go to line N'
 date: '2022-02-24 01:06:16 -0500'
 categories: [til]
 comments: true
+excerpt: 'This post explains how to go to a line in vanilla and Doom Emacs. The simplest way is M-x goto-line'
 ---
 When working on Emacs, we often need to move the cursor to certain line. This post explains how to do that in vanilla and Doom Emacs. 
 

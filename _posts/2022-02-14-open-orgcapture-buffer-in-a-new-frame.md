@@ -4,6 +4,7 @@ title: 'Open org-capture buffer in a new frame'
 date: '2022-02-14 19:19:34 -0500'
 categories: [til]
 comments: true
+excerpt: 'We can let org-capture to always a full frame / maximized window to minimize distractions without disrupting my current frame.'  
 ---
 By default, org-capture opens a popup buffer at the end of current
 window, and allows to type in the content. But I find the current buffer

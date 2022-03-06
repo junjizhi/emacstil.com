@@ -4,6 +4,7 @@ title: 'Set up Vale prose linter on Emacs'
 date: '2022-03-04 22:17:00 -0500'
 categories: [til]
 comments: true
+excerpt: 'I set up Vale on Emacs to lint my prose based on Microsoft / Google / proselint style guides. It highlights any violation and provides instant feedback.'
 ---
 Most of my writing happens in [Emacs Org-mode](https://orgmode.org/).
 One natural thinking is to let Emacs help me with my writing. This post

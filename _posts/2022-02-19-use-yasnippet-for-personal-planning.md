@@ -4,6 +4,7 @@ title: 'Use yasnippet for personal planning'
 date: '2022-02-19 08:59:28 -0500'
 categories: [til]
 comments: true
+excerpt: 'I use yasnippet to manage my personal templates. It is a simple yet effective way to maintain my planning quality.'
 ---
 
 [yasnippet](https://github.com/joaotavora/yasnippet) is great for coding.
