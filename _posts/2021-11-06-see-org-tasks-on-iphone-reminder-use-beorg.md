@@ -4,6 +4,7 @@ title: 'Sync Org Tasks to iPhone Reminder? Use Beorg!'
 date: '2021-11-06 21:08:08 -0400'
 categories: [til]
 comments: true
+excerpt: 'Sync Org TODO / tasks or agenda with iPhone. Integrates with icloud  / Reminder.app.' 
 ---
 
 If you use org-mode and own an iPhone, a natural thought is to view the tasks on the phone.

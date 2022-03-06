@@ -4,6 +4,7 @@ title: 'Pocket Reader on Emacs'
 date: '2022-02-06 11:26:47 -0500'
 categories: [til]
 comments: true
+excerpt: 'Read Pocket articles on Emacs. Mark them in Firefox or elfeed, and read them later on Emacs.'
 ---
 I found this gem:
 [pocket-reader.el](https://github.com/alphapapa/pocket-reader.el). It is
