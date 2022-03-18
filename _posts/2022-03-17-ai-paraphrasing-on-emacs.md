@@ -31,7 +31,7 @@ action:
 
 ![aide.el paraphrase interest rates text with openai on doom emacs](https://user-images.githubusercontent.com/2715151/158926373-0eca9317-7432-483a-9336-ddc39d68c220.gif)
 
-(The sample text was taken from CNN.com)
+(The sample text was taken from [CNN.com](https://www.cnn.com/2022/03/16/economy/fed-inflation-interest-rates/index.html))
 
 After you select a region of text, invoke the command, and send it to
 OpenAI, and replace the region with the result.
