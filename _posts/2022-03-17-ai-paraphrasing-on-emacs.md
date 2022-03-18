@@ -31,8 +31,12 @@ action:
 
 ![aide.el paraphrase interest rates text with openai on doom emacs](https://user-images.githubusercontent.com/2715151/158926373-0eca9317-7432-483a-9336-ddc39d68c220.gif)
 
+(The sample text was taken from CNN.com)
+
 After you select a region of text, invoke the command, and send it to
 OpenAI, and replace the region with the result.
 
 With this new function, it should help your text editing and
 supercharge your writing!
+
+P.S. aide.el is open-source and [hosted in Github](https://github.com/junjizhi/aide.el).
