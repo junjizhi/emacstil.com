@@ -6,10 +6,12 @@ categories: [til]
 comments: true
 ---
 
-When working on a large monorepo (like a ten-year-old Ruby on Rails app), invoking `projectile-find-file` is very slow. From [projectile documentation](https://docs.projectile.mx/projectile/configuration.html#alien-indexing), we can set the indexing method to `alien` to speed up the find file command:
+When working on a large monorepo (like a ten-year-old Ruby on Rails app), we can use `projectile-find-file` to go to files but it be _slow_ when the file list is long. 
+
+From [projectile documentation](https://docs.projectile.mx/projectile/configuration.html#alien-indexing), we can set the indexing method to `alien` to speed up the find file command:
 
 ```elisp
 (setq projectile-indexing-method 'alien)
 ```
 
-This saves _seconds_ when going to files and makes my work flow much more crispier!
+This saves _seconds_ when going to files and makes my action much crispier!
