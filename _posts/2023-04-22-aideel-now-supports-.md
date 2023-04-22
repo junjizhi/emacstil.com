@@ -6,7 +6,7 @@ categories: [til]
 comments: true
 ---
 
-aide.el now supports calling [OpenAI chat API endpoint](https://platform.openai.com/docs/api-reference/chat), which uses   `gpt-3.5-turbo` model by default. 
+[aide.el](https://github.com/junjizhi/aide.el) now supports calling [OpenAI chat API endpoint](https://platform.openai.com/docs/api-reference/chat), which uses   `gpt-3.5-turbo` model by default. 
 
 I implemented that in the new `aide-openai-chat` function.
 
