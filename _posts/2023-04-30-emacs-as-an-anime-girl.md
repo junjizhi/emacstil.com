@@ -5,7 +5,7 @@ date: '2023-04-30 11:55:16 -0400'
 categories: [til]
 comments: true
 ---
-Another fun experiment with Artificial Intelligence Global Company
+Another fun experiment with Artificial Intelligence Generated Content
 (AIGC)! I feed the following prompt to Dall-E and Midjourney:
 
 > Emacs as an anime girl
@@ -15,7 +15,7 @@ generation:
 
 ![dall-e emacs as anime girl](https://i.imgur.com/ZYqNiWU.jpg)
 
-[MidJourney](https://www.midjourney.com/app/) generation:
+[Midjourney](https://www.midjourney.com/app/) generation:
 
 ![midjourney emacs as an anime girl](https://i.imgur.com/EhPbLWz.jpg)
 
